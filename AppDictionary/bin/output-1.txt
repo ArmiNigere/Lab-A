@@ -1,0 +1,41 @@
+r cXYZ: cane cena 
+r cXYZ: cane cena cura cute 
+r ABAC: dado raro tata 
+r baXYZa: baccba balena banana 
+r baXYXa: banana 
+r ABBA: anna 
+r ABAB: 
+v: alba ananas anna baccba balena banana cane cavallo cena cura cute dado raro 
+d carota cartone: 3
+op: sca(4)sos(6,n)ins(7,e)
+r caAoBC: r cXYZ: cane cena 
+r cXYZ: cane cena cura cute 
+r ABAC: dado raro tata 
+r baXYZa: baccba balena banana 
+r baXYXa: banana 
+r ABBA: anna 
+r ABAB: 
+v: alba ananas anna baccba balena banana cane cavallo cena cura cute dado raro 
+d carota cartone: 3
+op: sca(4)sos(6,n)ins(7,e)
+r caAoBC: r cXYZ: cane cena 
+r cXYZ: cane cena cura cute 
+r ABAC: dado raro tata 
+r baXYZa: baccba balena banana 
+r baXYXa: banana 
+r ABBA: anna 
+r ABAB: 
+v: alba ananas anna baccba balena banana cane cavallo cena cura cute dado raro 
+d carota cartone: 3
+op: sca(4)sos(6,n)ins(7,e)
+r caAoBC: r cXYZ: cane cena 
+r cXYZ: cane cena cura cute 
+r ABAC: dado raro tata 
+r baXYZa: baccba balena banana 
+r baXYXa: banana 
+r ABBA: anna 
+r ABAB: 
+v: alba ananas anna baccba balena banana cane cavallo cena cura cute dado raro 
+d carota cartone: 3
+op: sca(4)sos(6,n)ins(7,e)
+r caAoBC: 

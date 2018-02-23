@@ -1,0 +1,16 @@
+i cavoLO
+c dizionario-1.txt
+r cXYZ
+c dizionario-2.txt
+r cXYZ
+r ABAC  
+r baXYZa
+r baXYXa
+r ABBA
+e tata
+r ABAB
+v
+d carota cartone
+r caAoBC 
+f
+
